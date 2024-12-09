@@ -6,6 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 redis:7.4.1
 apache/rocketmq:5.3.1
-#nacos/nacos-server:2.4.3
+nacos/nacos-server:v2.4.3
 mysql:8.0.40
 
