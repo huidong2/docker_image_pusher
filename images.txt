@@ -10,3 +10,4 @@ nacos/nacos-server:v2.4.3
 mysql:8.0.40
 nginx:1.27.3
 minio/minio:latest
+seataio/seata-server:2.0.0
