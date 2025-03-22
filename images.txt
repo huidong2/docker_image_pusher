@@ -12,3 +12,4 @@ nginx:1.27.3
 minio/minio:latest
 seataio/seata-server:2.0.0
 xuxueli/xxl-job-admin:2.4.0
+apacherocketmq/rocketmq-dashboard:latest
