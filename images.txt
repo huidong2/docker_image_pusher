@@ -43,6 +43,7 @@ registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
 quay.io/prometheus/node-exporter:v1.9.1
 quay.io/prometheus/prometheus:v3.3.1
 docker.io/kubesphere/dcgm-exporter:3.3.5-3.4.0-ubuntu22.04
+cr.fluentbit.io/fluent/fluent-bit
 gcr.io/cadvisor/cadvisor:v0.49.1
 docker.io/kubesphere/ks-extension-upgrade:v0.3.1
 docker.io/kubesphere/whizard-telemetry-apiserver:v1.5.0
