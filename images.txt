@@ -43,8 +43,8 @@
 #quay.io/prometheus/node-exporter:v1.9.1
 #quay.io/prometheus/prometheus:v3.3.1
 #docker.io/kubesphere/dcgm-exporter:3.3.5-3.4.0-ubuntu22.04
-cr.fluentbit.io/fluent/fluent-bit
-gcr.io/cadvisor/cadvisor:v0.49.1
-docker.io/kubesphere/ks-extension-upgrade:v0.3.1
-docker.io/kubesphere/whizard-telemetry-apiserver:v1.5.0
-docker.io/kubesphere/wiz-telemetry-console:v2.0.2
+#gcr.io/cadvisor/cadvisor:v0.49.1
+#docker.io/kubesphere/ks-extension-upgrade:v0.3.1
+#docker.io/kubesphere/whizard-telemetry-apiserver:v1.5.0
+#docker.io/kubesphere/wiz-telemetry-console:v2.0.2
+cr.fluentbit.io/fluent/fluent-bit:4.1.1
