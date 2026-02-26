@@ -47,4 +47,5 @@
 #docker.io/kubesphere/ks-extension-upgrade:v0.3.1
 #docker.io/kubesphere/whizard-telemetry-apiserver:v1.5.0
 #docker.io/kubesphere/wiz-telemetry-console:v2.0.2
-cr.fluentbit.io/fluent/fluent-bit:4.1.1
+#cr.fluentbit.io/fluent/fluent-bit:4.1.1
+netbirdio/netbird:latest
