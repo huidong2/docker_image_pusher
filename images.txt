@@ -50,4 +50,4 @@
 #cr.fluentbit.io/fluent/fluent-bit:4.1.1
 #netbirdio/netbird:latest
 
-nginx:1.30.7-alpine
+nginx:1.30.8-alpine
